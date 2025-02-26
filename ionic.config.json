@@ -1,0 +1,7 @@
+{
+  "name": "Time-to-Leave",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
